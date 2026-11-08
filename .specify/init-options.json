@@ -1,10 +1,19 @@
 {
+<<<<<<< HEAD
   "ai": "codex",
+=======
+  "ai": "claude",
+>>>>>>> 81980054948484f405d3aedd285891179c4a8d4b
   "ai_skills": true,
   "allow_symlinks": false,
   "feature_numbering": "sequential",
   "here": true,
+<<<<<<< HEAD
   "integration": "codex",
   "script": "py",
+=======
+  "integration": "claude",
+  "script": "ps",
+>>>>>>> 81980054948484f405d3aedd285891179c4a8d4b
   "speckit_version": "1.3.2"
 }
