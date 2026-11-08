@@ -1,4 +1,3 @@
-# BasmaBS.ae
 # Bassmah Bookstore (v2)
 
 ## Run the project
@@ -15,4 +14,3 @@ then open http://localhost:8000
 
 ## Files
 index.html, shop.html, about.html, contact.html, cart.html, css/style.css, js/script.js, images/
-
